@@ -1,29 +1,25 @@
-## React, Webpack, Babel, Jest, Sass, Redux Boilerplate
-This is a boilerplate to get your react webpack projects up and running quickly!
+## portfolio
 
-### Prerequisites
+This is my personal portfolio built with react.
 
-What you will need to install the software and how to install it.
+## Install
 
+To install and check it out on your own machine.
 ```
-npm install
-```
-
-### Installing
-
-1). Clone the repo
-
-```
-git clone https://github.com/21x37/react-redux-webpack-boilerplate.git
+git clone https://github.com/21x37/portfolio
 ```
 
-2). Run npm install inside project root
+## Setup
 
+Install the packages.
 ```
-npm install
+npm i
 ```
 
-3). Start the dev server
+Start the development server.
+
 ```
 npm run dev-server
 ```
+
+💻
