@@ -4,7 +4,7 @@ import Info from './Info';
 const HomePage = () => {
     return (
         <div>
-            <h1>Tyler Mok</h1>
+            <h1>Tyler</h1>
             <Info/>
         </div>
     );
